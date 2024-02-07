@@ -1,0 +1,14 @@
+{
+  "name": "built-in-module-nodejs-assignment",
+  "version": "1.0.0",
+  "description": "This is my first assignment on fundamentals of NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\ Error: no test specified \\ && exit 1"
+  },
+  "keywords": [
+    "anythiing"
+  ],
+  "author": "Abhishek",
+  "license": "ISC"
+}
